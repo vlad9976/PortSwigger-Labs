@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "c5e0591e4c60be32",
+    "type": "split",
+    "children": [
+      {
+        "id": "c468a1fe8a4c401d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a8c15053e5a6658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server-Side/SQL injection (SQLi)/99 Labs/10 Lab Blind SQL injection with conditional errors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4257f5151c36fba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server-side request forgery (SSRF) attacks/14 SSRF via the Referer header/SSRF via the Referer header.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61b8106e85bcffcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server-Side/SQL injection (SQLi)/99 Labs/9 Lab Blind SQL injection with conditional responses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88ea11aa1bf32511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API testing/99 LABS/4 Lab Exploiting server-side parameter pollution in a query string.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "021c866cd45acfc6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c88f6d239098ef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ef9158c4efb3c02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c0316da80988d8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29649fefb2bdd240",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "697127f50333f8b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56745ffc27aee4c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94f4757c9cd1298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f1f477fc9d1df1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Server-side request forgery (SSRF) attacks/14 SSRF via the Referer header/SSRF via the Referer header.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37135da7c38e5114",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Server-side request forgery (SSRF) attacks/14 SSRF via the Referer header/SSRF via the Referer header.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56af1bab4809a6cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a536dada9987a981",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Server-side request forgery (SSRF) attacks/14 SSRF via the Referer header/SSRF via the Referer header.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4257f5151c36fba7",
+  "lastOpenFiles": [
+    "Server-side request forgery (SSRF) attacks/13 URLs within data formats/URLs within data formats.md",
+    "Server-side request forgery (SSRF) attacks/14 SSRF via the Referer header/SSRF via the Referer header.md",
+    "Server-side request forgery (SSRF) attacks/14 SSRF via the Referer header",
+    "Server-side request forgery (SSRF) attacks/12 Partial URLs in requests/Partial URLs in requests.md",
+    "Server-side request forgery (SSRF) attacks/13 URLs within data formats",
+    "Server-side request forgery (SSRF) attacks/11 Finding hidden attack surface for SSRF vulnerabilities/Finding hidden attack surface for SSRF vulnerabilities.md",
+    "Server-side request forgery (SSRF) attacks/12 Partial URLs in requests",
+    "Server-side request forgery (SSRF) attacks/Untitled.md",
+    "Server-side request forgery (SSRF) attacks/11 Finding hidden attack surface for SSRF vulnerabilities",
+    "Server-side request forgery (SSRF) attacks/99 Labs/5 Lab Blind SSRF with out-of-band detection.md",
+    "Server-side request forgery (SSRF) attacks/10 Blind SSRF vulnerabilities/3.1 How to find and exploit blind SSRF vulnerabilities - Continued.md",
+    "Server-side request forgery (SSRF) attacks/10 Blind SSRF vulnerabilities/3 How to find and exploit blind SSRF vulnerabilities.md",
+    "Server-side request forgery (SSRF) attacks/10 Blind SSRF vulnerabilities/2 What is the impact of blind SSRF vulnerabilities.md",
+    "Server-side request forgery (SSRF) attacks/10 Blind SSRF vulnerabilities/1 Blind SSRF vulnerabilities.md",
+    "Server-side request forgery (SSRF) attacks/99 Labs/4 Lab SSRF with filter bypass via open redirection vulnerability.md",
+    "Server-side request forgery (SSRF) attacks/10 Blind SSRF vulnerabilities",
+    "Server-side request forgery (SSRF) attacks/9 Bypassing SSRF filters via open redirection/Bypassing SSRF filters via open redirection.md",
+    "Server-side request forgery (SSRF) attacks/8 SSRF with whitelist-based input filters/SSRF with whitelist-based input filters.md",
+    "Server-side request forgery (SSRF) attacks/9 Bypassing SSRF filters via open redirection",
+    "Server-side request forgery (SSRF) attacks/99 Labs/3 Lab SSRF with blacklist-based input filter.md",
+    "Server-side request forgery (SSRF) attacks/8 SSRF with whitelist-based input filters",
+    "Server-side request forgery (SSRF) attacks/7 SSRF with blacklist-based input filters/SSRF with blacklist-based input filters.md",
+    "Server-side request forgery (SSRF) attacks/6 Circumventing common SSRF defenses/Circumventing common SSRF defenses.md",
+    "Server-side request forgery (SSRF) attacks/7 SSRF with blacklist-based input filters",
+    "Server-side request forgery (SSRF) attacks/99 Labs/2 Lab Basic SSRF against another back-end system.md",
+    "Server-side request forgery (SSRF) attacks/6 Circumventing common SSRF defenses",
+    "Server-side request forgery (SSRF) attacks/5 SSRF attacks against other back-end systems/SSRF attacks against other back-end systems.md",
+    "Server-side request forgery (SSRF) attacks/99 Labs/1 Lab Basic SSRF against the local server.md",
+    "Server-side request forgery (SSRF) attacks/5 SSRF attacks against other back-end systems",
+    "Server-side request forgery (SSRF) attacks/4 SSRF attacks against the server/2 SSRF attacks against the server - Continued.md",
+    "Server-side request forgery (SSRF) attacks/4 SSRF attacks against the server/1 SSRF attacks against the server.md",
+    "Server-side request forgery (SSRF) attacks/3 Common SSRF attacks/Common SSRF attacks.md",
+    "Server-side request forgery (SSRF) attacks/2 What is the impact of SSRF attacks/What is the impact of SSRF attacks.md",
+    "Server-side request forgery (SSRF) attacks/1 What is SSRF/What is SSRF.md",
+    "Server-side request forgery (SSRF) attacks/1 What is SSRF/server-side request forgery.svg",
+    "Server-Side/Server-side request forgery (SSRF)/3 SSRF attacks against other back-end systems.md",
+    "Server-Side/Server-side request forgery (SSRF)/2 SSRF attacks against the server - Continued.md",
+    "ohui7s5i.bmp",
+    "rndpgf0k.bmp",
+    "z96o71cg.bmp",
+    "3g08waoi.bmp",
+    "SecLists-master/SecLists-master/Payloads/Images/uber.gif",
+    "iy5d7x5p.bmp",
+    "Server-Side/Authentication/4 Vulnerabilities in third-party authentication mechanisms/1 OAuth grant types/2 Implicit grant type/oauth-implicit-flow.jpg",
+    "Server-Side/Authentication/4 Vulnerabilities in third-party authentication mechanisms/1 OAuth grant types/1 Authorization code grant type/oauth-authorization-code-flow.jpg"
+  ]
+}

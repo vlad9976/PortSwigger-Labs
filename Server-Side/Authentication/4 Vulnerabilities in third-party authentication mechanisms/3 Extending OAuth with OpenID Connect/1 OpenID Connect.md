@@ -1,0 +1,8 @@
+
+OpenID Connect extends the OAuth protocol to provide a dedicated identity and authentication layer that sits on top of the [basic OAuth implementation](https://portswigger.net/web-security/oauth#how-does-oauth-2-0-work). It adds some simple functionality that enables better support for the authentication use case of OAuth.
+
+OAuth was not initially designed with authentication in mind; it was intended to be a means of delegating authorizations for specific resources between applications. However, many websites began customizing OAuth for use as an authentication mechanism. To achieve this, they typically requested read access to some basic user data and, if they were granted this access, assumed that the user authenticated themselves on the side of the OAuth provider.
+
+These plain [OAuth authentication](https://portswigger.net/web-security/oauth#oauth-authentication) mechanisms were far from ideal. For a start, the client application had no way of knowing when, where, or how the user was authenticated. As each of these implementations was a custom workaround of sorts, there was also no standard way of requesting user data for this purpose. To support OAuth properly, client applications would have to configure separate OAuth mechanisms for each provider, each with different endpoints, unique sets of scopes, and so on.
+
+OpenID Connect solves a lot of these problems by adding standardized, identity-related features to make authentication via OAuth work in a more reliable and uniform way.
